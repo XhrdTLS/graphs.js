@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.borde{
+    display: block;
+    border: 2px solid lightskyblue;
+    border-radius: 20px;
+}
